@@ -1,5 +1,9 @@
 *.py[cod]
 
+src/config.json
+
+cookie
+
 # C extensions
 *.so
 
@@ -33,3 +37,6 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Pycharm
+.idea
